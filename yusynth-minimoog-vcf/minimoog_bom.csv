@@ -1,0 +1,42 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+1;R34,R5,R6,R18;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;4;100k;
+2;C7;CP_Radial_D6.3mm_P2.50mm;1;220u;
+3;C14,C10;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;10u;
+4;R7,R33;R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical;2;10;
+5;Q1;TO-92;1;BC557;Any similar transistor should do
+6;Q9;TO-92;1;BC547;Any similar transistor should do
+7;D2,D1;D_SOD-123;2;1N4004;Any similar diode should do
+8;J6;Pin_Header_Straight_2x05_Pitch2.54mm;1;EURO_PWR_2x5;
+9;U1;SOIC-8_3.9x4.9mm_P1.27mm;1;TL072;
+10;R28,R24;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;200k;
+11;C6,C5,C4,C3;C_Rect_L7.0mm_W2.0mm_P5.00mm;4;47n;Film caps
+12;Q5,Q8,Q7,Q4,Q3,Q2,Q6;SOT-363_SC-70-6_Handsoldering;7;NPN;NST45011MW6T1G
+13;C2;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;100p;
+14;C13,C8;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;220n;
+15;C9;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;100n;
+16;C11,C12;C_1206_3216Metric_Pad1.42x1.75mm_HandSolder;2;22u;
+17;C1;C_1206_3216Metric_Pad1.42x1.75mm_HandSolder;1;10u;
+18;R1;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;680;
+19;R23;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;22;
+20;R10;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;1.8k;
+21;R11,R21;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;330;
+22;R12,R13,R14,R19;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;4;150;
+23;R8,R30;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;56k;
+24;R2;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;150k;
+25;R3,R4,R31;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;3;120k;
+26;R15,R16;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;470;
+27;R9;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;10k;
+28;R26;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;180;
+29;R25;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;910;
+30;R29,R22;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;2;47k;
+31;R32,R17,R27;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;3;1k;
+32;R20;R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;1;220;
+33;J3,J7,J1,J4,J2;PJ301M-12;5;Jack;
+34;RV4,RV2;Potentiometer_Alps_RK09K_Horizontal;2;A50K;
+35;RV5;Potentiometer_Trimmer_Bourns_3296W;1;500;
+36;RV6;Potentiometer_Trimmer_Bourns_3296W;1;10K;
+37;RV7;Potentiometer_Trimmer_Bourns_3296W;1;1K;
+38;RV3,RV8;Potentiometer_Alps_RK09K_Horizontal;2;B50K;
+39;RV1;Potentiometer_Alps_RK09K_Horizontal;1;B10K;
+;;;;;
+;;http://www.yusynth.net/Modular/EN/MOOGVCF/index.html;;;
