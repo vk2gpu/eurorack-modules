@@ -158,9 +158,9 @@
     (pad 1 thru_hole oval (at 0 0) (size 5 4) (drill oval 4 3.2) (layers *.Cu *.Mask))
   )
 
-  (module PanelMounting:JackMounting_3.5mm (layer B.Cu) (tedit 5CD13642) (tstamp 5CDDBCFA)
+  (module PanelMounting:JackMounting_3.5mm (layer B.Cu) (tedit 5CDB57AE) (tstamp 5CDDBCFA)
     (at 139.7 114.3 180)
-    (fp_text reference "In 1" (at 0 -6.35 180) (layer B.SilkS)
+    (fp_text reference "In 2" (at 0 -6.35 180) (layer B.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
     )
     (fp_text value JackMounting_3.5mm (at 0 5.08 180) (layer B.Fab)
